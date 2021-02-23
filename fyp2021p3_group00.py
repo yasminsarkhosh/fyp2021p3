@@ -19,6 +19,8 @@ path_mask = 'data/example_segmentation'
 
 file_features = 'features/features.csv'
 
+
+
 df = pd.read_csv(file_data)
 
 
@@ -77,7 +79,6 @@ axs = util.scatter_data(features_area, features_perimeter, is_melanoma)
 axs.set_xlabel('X1 = Area')
 axs.set_ylabel('X2 = Perimeter')
 axs.legend()
-axs.show()
 
 
 

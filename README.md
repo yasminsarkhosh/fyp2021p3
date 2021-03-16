@@ -31,7 +31,7 @@ To start with, you get two files:
 * `fyp2021p3_group00_functions.py` with functions to extract features etc.
 * `fyp2021p3_group00.py` with the main script, which loads the images, calls the functions, and reproduces your results.  
 
-If you prefer, you can use a notebook during the project, however, when handing in the code, please hand in only .py files (additional files for functions are also allowed).
+If you prefer, you can use a notebook instead. 
 
 Do not forget to replace your group number in the file names. 
 

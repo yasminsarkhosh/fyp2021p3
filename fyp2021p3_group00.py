@@ -117,5 +117,5 @@ for train_index, test_val_index in kf.split(x, y):
    
     index_fold += 1
     
-  print(acc_val)
-  print(acc_test)
+print(acc_val)
+print(acc_test)
